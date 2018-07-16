@@ -10,7 +10,7 @@ Clone the repo, instal dependencies and start development server:
 
 ```
 git clone git@github.com:shaunchurch/begin-parcel-ts.git
-cd begin-parce-ts
+cd begin-parcel-ts
 yarn && yarn start
 ```
 
