@@ -1,7 +1,11 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-class App extends React.Component {
+interface Props {}
+
+interface State {}
+
+class App extends React.Component<Props, State> {
   render() {
     return <div>Hello, world!</div>;
   }
