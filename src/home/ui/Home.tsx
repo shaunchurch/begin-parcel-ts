@@ -5,7 +5,7 @@ class Home extends Component {
   render() {
     return (
       <Page>
-        <h1>Game on!</h1>
+        <h1>Hello, world!</h1>
         <p>
           Lorem ipsum dolar sit amet. Lorem ipsum dolar sit amet. Lorem ipsum
           dolar sit amet. Lorem ipsum dolar sit amet. Lorem ipsum dolar sit
