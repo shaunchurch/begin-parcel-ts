@@ -21,7 +21,6 @@ class Home extends Component {
         </p>
         <h2>Subheading</h2>
         <p>
-          This is some text that will be animaed. Lorem ipsum dolar sit amet.
           Lorem ipsum dolar sit amet. Lorem ipsum dolar sit amet. Lorem ipsum
           dolar sit amet. Lorem ipsum dolar sit amet. Lorem ipsum dolar sit
           amet. Lorem ipsum dolar sit amet. Lorem ipsum dolar sit amet. Lorem
